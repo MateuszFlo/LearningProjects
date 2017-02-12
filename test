@@ -1,2 +1,2 @@
-print 'hello'
-print 'world'
+print 'hello' #ceci est un test
+print 'world' #ceci est un autre test
